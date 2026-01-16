@@ -138,8 +138,8 @@ export function ReadmeSection() {
 
         <pre className="bg-[#161b22] border border-[#30363d] rounded-md p-4 overflow-x-auto">
           <code className="text-sm text-[#e6edf3]">{`# Clone the refinery
-git clone https://github.com/fart-town/fart-town.git
-cd fart-town
+git clone https://github.com/makhak123/farttown.git
+cd farttown
 
 # Install dependencies
 npm install

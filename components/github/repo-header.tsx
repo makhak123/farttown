@@ -9,12 +9,22 @@ export function RepoHeader() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <BookOpen className="w-4 h-4 text-[#7d8590]" />
-            <a href="#" className="text-[#58a6ff] hover:underline text-xl font-semibold">
-              fart-town
+            <a
+              href="https://github.com/makhak123"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#58a6ff] hover:underline text-xl font-semibold"
+            >
+              makhak123
             </a>
             <span className="text-[#7d8590] text-xl">/</span>
-            <a href="#" className="text-[#58a6ff] hover:underline text-xl font-semibold">
-              fart-town
+            <a
+              href="https://github.com/makhak123/farttown"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#58a6ff] hover:underline text-xl font-semibold"
+            >
+              farttown
             </a>
             <span className="text-xs px-1.5 py-0.5 rounded-full border border-[#30363d] text-[#7d8590] ml-2">
               Public
